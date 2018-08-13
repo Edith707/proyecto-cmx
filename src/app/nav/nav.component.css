@@ -1,0 +1,20 @@
+.navbar{
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+}
+
+
+.badge-dark{
+    background-color: #8A79AF!important;
+}
+
+.nav-item:hover{
+   background-color: rgba(184, 127, 219, 0.904);
+   margin-left: 10%;
+}
+#special{
+    font-style: italic;
+    font-weight: 100;
+   
+}
