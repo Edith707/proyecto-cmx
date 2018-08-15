@@ -5,8 +5,10 @@
     position: relative;
 }
 .images {
-
+    margin-top: 10%;
     max-width: 250px;
+    max-height: 250px;
+    max-width: 150px;
     max-height: 150px;
 }
 
@@ -50,4 +52,12 @@
 
 #acoso>h2, #acoso>p {
     text-align: center;
+}
+
+#acoso {
+    margin-bottom: 80px;
+}
+
+.cards {
+    margin-bottom: 90px;
 }
