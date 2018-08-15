@@ -13,7 +13,7 @@
 
 img {
     width: 100%;
-    height: 500px;
+    min-height: 500px;
 }
 .images {
     border-radius: 40%;
@@ -34,4 +34,10 @@ img {
     border-color:#B37ED6; 
 }
 
+#about{
+    margin-bottom: 80px;
+}
 
+.info-about{
+ margin : 0 10%;
+}

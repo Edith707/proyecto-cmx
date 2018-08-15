@@ -5,8 +5,10 @@
     position: relative;
 }
 .images {
-    border-radius: 40%;
+    margin-top: 10%;
     max-width: 250px;
+    max-height: 250px;
+    max-width: 150px;
     max-height: 150px;
 }
 
@@ -31,4 +33,12 @@
 .modal-content{
    min-height: auto;
   min-width: 650px;
+}
+
+#violacion {
+    margin-bottom: 80px;
+}
+
+.cards {
+    margin-bottom: 90px;
 }
